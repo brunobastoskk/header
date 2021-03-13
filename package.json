@@ -28,6 +28,7 @@
     "express": "^4.15.2",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
+    "windowed-observable": "^0.4.2",
     "zone.js": "~0.10.2"
   },
   "devDependencies": {
